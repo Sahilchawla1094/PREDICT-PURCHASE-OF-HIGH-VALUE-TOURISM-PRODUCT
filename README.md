@@ -1,4 +1,4 @@
-#PREDICT PURCHASE OF HIGH VALUE TOURISM PRODUCT 
+PREDICT PURCHASE OF HIGH VALUE TOURISM PRODUCT 
 
 A reputed tourism company is planning to launch a long term travel package. The Product Manager has access to the existing customers’ data and information. He wishes to analyse the trend of existing customers to figure out which customer is going to purchase the long term travel package. 
 This project has two components. The analytical component requires you to perform exploratory data analysis using appropriate methods, handle missing values, handle class imbalance, build a bouquet of models and choose the best among the models as the final recommended model. 
